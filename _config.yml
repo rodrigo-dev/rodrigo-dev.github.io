@@ -9,3 +9,4 @@ markdown: kramdown
 them: minima
 plugins: 
   - jekyll-feed
+theme: jekyll-theme-minimal
