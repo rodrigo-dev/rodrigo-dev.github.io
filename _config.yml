@@ -1,1 +1,11 @@
 title: Rodrigo Tavares
+email: tavares.rodrigo96@gmail.com
+
+twitter_username: cubanajarra
+github_username: rodrigo-dev
+
+#build settings
+markdown: kramdown
+them: minima
+plugins: 
+  - jekyll-feed
